@@ -4,9 +4,9 @@ logo: img/SIBAGAT-FBC-Final-1.png
 contact_entries:
   - heading: Location
     text: Purok-10, Poblacion, Sibagat, Agusan Del Sur, Philippines, 8503
-  - heading: Wednesday Service
+  - heading: Schedule
     text: |
-      5PM – 7PM : Prayer Meeting
+      Wednesday 5PM – 7PM : Prayer Meeting
   - heading: Sunday Service
     text: "9AM – 12PM : Sunday School & Worship Services"
   - heading: "Contact #"
