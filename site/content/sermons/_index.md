@@ -1,6 +1,6 @@
 ---
-title: Our Coffee
-type: products
+title: Sermons
+type: sermons
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
