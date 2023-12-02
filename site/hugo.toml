@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "SibagatFBC"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -9,4 +9,4 @@ title = "Kaldi"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/fundamental baptist.png"]
