@@ -14,7 +14,7 @@ import FooterPreview from "./cms-preview-templates/footer";
 CMS.registerPreviewStyle(styles, {raw: true});
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
-CMS.registerPreviewTemplate("sesrmons", SermonsPreview);
+CMS.registerPreviewTemplate("sermons", SermonsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("footer", FooterPreview);
