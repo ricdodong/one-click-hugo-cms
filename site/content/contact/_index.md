@@ -1,19 +1,20 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/SIBAGAT-FBC-Final-1.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: Purok-10, Poblacion, Sibagat, Agusan Del Sur, Philippines, 8503
+  - heading: Wednesday Service
+    text: |
+      5PM – 7PM : Prayer Meeting
+  - heading: Sunday Service
+    text: "9AM – 12PM : Sunday School & Worship Services"
+  - heading: "Contact #"
+    text: "+639637537673"
 ---
-
 We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+questions. If you would like to come and join us with our worship service please don't hesitate to contact us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Planning a Visit?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+You can also use the form below for any inquiries about our Church location and scheduling sessions. Don’t be shy, drop us a line!
