@@ -26,6 +26,10 @@ sermons:
     text: '"For all have sinned and come short of the glory of God", Romans 3:23.
       Sin is those bad words, deeds, and thoughts, such as lying, cheating, and
       being greedy.'
+  - image: img/05.jpg
+    text: True life and happiness only come from God. But sin is what separates us
+      from God. If you separate the flower from its root, it will slowly die. In
+      the same way, we also die because we are separated from God.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
