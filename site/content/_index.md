@@ -1,20 +1,28 @@
 ---
-title: "SibagatFBC"
+title: SibagatFBC
 subtitle: Fundamental Baptist Church
-image: /img/home-jumbotron.jpg
+image: img/sibagatfbc.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Welcome!
+  text: You are currently viewing our website. As a warm greeting, let us say
+    thank you for visiting. We have some articles available here that maybe you
+    can learn or remember about the Word of God.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: "The truth about the gospel: Did you know what God did just to redeem
+    you from sin?"
+  text: John 3:16, For God so loved the world, that he gave his only begotten Son,
+    that whosoever believeth in him should not perish, but have everlasting
+    life.
 sermons:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/01.jpg
+    text: Welcome to Heaven!
+  - image: img/02.jpg
+    text: "We are all strangers in this world. Did you ever think about what would
+      happen to you when death came? some people may say Yes, "
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
-
