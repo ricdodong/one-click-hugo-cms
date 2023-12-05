@@ -20,6 +20,8 @@ sermons:
     text: We are all strangers in this world. Did you ever think about what would
       happen to you when death came? Some people may say yes, and some may say
       no; they may be afraid of it.
+  - image: img/03.jpg
+    text: God loves you, and he made you to be close to him. but there is a problem.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
