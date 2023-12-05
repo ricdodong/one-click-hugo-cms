@@ -22,6 +22,10 @@ sermons:
       no; they may be afraid of it.
   - image: img/03.jpg
     text: God loves you, and he made you to be close to him. but there is a problem.
+  - image: img/04.jpg
+    text: '"For all have sinned and come short of the glory of God", Romans 3:23.
+      Sin is those bad words, deeds, and thoughts, such as lying, cheating, and
+      being greedy.'
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
