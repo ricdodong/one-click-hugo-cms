@@ -17,8 +17,9 @@ sermons:
   - image: img/01.jpg
     text: Welcome to Heaven!
   - image: img/02.jpg
-    text: "We are all strangers in this world. Did you ever think about what would
-      happen to you when death came? some people may say Yes, "
+    text: We are all strangers in this world. Did you ever think about what would
+      happen to you when death came? Some people may say yes, and some may say
+      no; they may be afraid of it.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
