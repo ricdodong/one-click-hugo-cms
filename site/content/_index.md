@@ -30,6 +30,9 @@ sermons:
     text: True life and happiness only come from God. But sin is what separates us
       from God. If you separate the flower from its root, it will slowly die. In
       the same way, we also die because we are separated from God.
+  - image: img/06.jpg
+    text: The punishment for sin is eternal separation from God in hell at the time
+      of our death.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
